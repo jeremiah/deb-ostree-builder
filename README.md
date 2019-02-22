@@ -1,8 +1,8 @@
-Endless OSTree Builder (EOB)
-============================
+# Debian based OSTree Builder
 
-This program assembles the Endless OS (EOS) from prebuilt packages and
-content. Its main functions are:
+This program assembles an ostree from prebuilt deb packages. Its main
+functions are to;
+
  1. Assemble packages into ostree
  2. Publish the ostree repo to a remote server
 
